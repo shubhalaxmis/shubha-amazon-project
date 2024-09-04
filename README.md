@@ -6,7 +6,7 @@ This project involves creating a sleek and modern e-commerce website inspired by
 
 **Key Features:**
 
-- **Homepage Layout:** A dynamic homepage with a navigation bar, search bar, featured products, and promotional banners. The design will include a grid layout for product listings and a clean, user-friendly interface.
+ **Homepage Layout:** A dynamic homepage with a navigation bar, search bar, featured products, and promotional banners. The design will include a grid layout for product listings and a clean, user-friendly interface.
   
 - **Product Pages:** Detailed product pages with images, descriptions, prices, and customer reviews. Implement a consistent style for product information and ensure responsive design for various devices.
 
